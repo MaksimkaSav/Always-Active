@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_of_salad">#99DCA9</color>
+    <color name="color_dark_green">#7DBC8C</color>
+    <color name="dark_white">#BCBCBC</color>
+    <color name="grey">#686868</color>
+</resources>
